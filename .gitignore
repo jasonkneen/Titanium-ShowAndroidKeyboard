@@ -4,3 +4,5 @@ build
 *.zip
 .apt_generated
 /dist
+
+manifest.bak

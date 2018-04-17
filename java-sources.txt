@@ -1,0 +1,8 @@
+"/Users/jkneen/Documents/Appcelerator_Studio_Workspace/Titanium-ShowAndroidKeyboard/src/com/exygy/showkeyboard/TiExygyShowKeyboardAndroidModule.java"
+"/Users/jkneen/Documents/Appcelerator_Studio_Workspace/Titanium-ShowAndroidKeyboard/build/generated/java/com/exygy/showkeyboard/TiExygyShowKeyboardAndroidBootstrap.java"
+"/Users/jkneen/Documents/Appcelerator_Studio_Workspace/Titanium-ShowAndroidKeyboard/build/generated/r/android/support/compat/R.java"
+"/Users/jkneen/Documents/Appcelerator_Studio_Workspace/Titanium-ShowAndroidKeyboard/build/generated/r/android/support/design/R.java"
+"/Users/jkneen/Documents/Appcelerator_Studio_Workspace/Titanium-ShowAndroidKeyboard/build/generated/r/android/support/v7/appcompat/R.java"
+"/Users/jkneen/Documents/Appcelerator_Studio_Workspace/Titanium-ShowAndroidKeyboard/build/generated/r/android/support/v7/cardview/R.java"
+"/Users/jkneen/Documents/Appcelerator_Studio_Workspace/Titanium-ShowAndroidKeyboard/build/generated/r/com/exygy/showkeyboard/R.java"
+"/Users/jkneen/Documents/Appcelerator_Studio_Workspace/Titanium-ShowAndroidKeyboard/build/generated/r/ti/modules/titanium/ui/R.java"
